@@ -322,7 +322,7 @@ def set_custom_theme(theme_choice):
                 transform: scale(1.05);
             }
             .stSidebar {
-                background-color: #f0f8ff;
+                background-color: #bcd3eb;
                 border-radius: 10px;
             }
             .stMarkdown, .stText, .stHeader {
@@ -347,7 +347,7 @@ def set_custom_theme(theme_choice):
                 transform: scale(1.05);
             }
             .stSidebar {
-                background-color: #fef0e5;
+                background-color: #cfc5b8;
                 border-radius: 10px;
             }
             .stMarkdown, .stText, .stHeader {
@@ -377,7 +377,7 @@ def set_custom_theme(theme_choice):
             text-align: center;
             }
             .stSidebar {
-                background-color: #e0f2e0;
+                background-color: #a1cca4;
                 border-radius: 10px;
             }
             .stMarkdown, .stText, .stHeader {
